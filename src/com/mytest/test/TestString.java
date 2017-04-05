@@ -5,8 +5,9 @@ import java.util.List;
 
 public class TestString {
 	public static void main(String[] args) {
+		// ä¸‹è½½æµ‹è¯•
 		
-		// 1. ¼ÆËãÒ»¸ö×Ö·û´®ÖĞ×ÖÄ¸³öÏÖ´ÎÊı£¬ÉıĞò/½µĞò Êä³ö
+		// 1. è®¡ç®—ä¸€ä¸ªå­—ç¬¦ä¸²ä¸­å­—æ¯å‡ºç°æ¬¡æ•°ï¼Œå‡åº/é™åº è¾“å‡º
 		
 //		String str ="2342asfghgyu56asdasda";
 //		
@@ -21,12 +22,12 @@ public class TestString {
 //			}
 //		}
 //		
-//		// descending ½µĞò
+//		// descending é™åº
 //		for(String key: resMap.descendingMap().keySet()){
 //			System.out.println("key:"+key+",value:"+ resMap.get(key) );
 //		}
 		
-		// 2. ×Ö·ûÀàĞÍ×ªÒë
+		// 2. å­—ç¬¦ç±»å‹è½¬è¯‘
 //		System.out.println(Integer.valueOf('0')+1);  // 49
 //		System.out.println(Integer.valueOf("0")+1);  // 1
 //		System.out.println(2+'0');
@@ -34,7 +35,7 @@ public class TestString {
 //		int a= 0; char b='0';
 //		System.out.println(0+'1');
 		
-		// 3. ¾²Ì¬Ä£¿é±ØĞëµ÷ÓÃ¾²Ì¬Ä£¿é
+		// 3. é™æ€æ¨¡å—å¿…é¡»è°ƒç”¨é™æ€æ¨¡å—
 		
 		 //new TestString().test(args);
 //		test(args);	 // java.lang.ArrayIndexOutOfBoundsException
